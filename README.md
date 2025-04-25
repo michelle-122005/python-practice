@@ -1,3 +1,3 @@
 Name of student
 Michelle Wangui Wachanga
-admission number 176833
+admission number 176833.
